@@ -80,7 +80,7 @@
 }
 
 .landing-grid {
-  background-image: url("/unsplash.jpg");
+  background-image: url("/public/unsplash.jpg");
   background-size: cover;
   text-align: center;
   position: fixed;
@@ -92,7 +92,7 @@
 }
 
 .projects-base {
-  background-image: url("/unsplash.jpg");
+  background-image: url("/public/unsplash.jpg");
   background-size: cover;
   top: 0;
   left: 0;
@@ -127,7 +127,7 @@
 }
 
 body {
-  background-image: url("/unsplash.jpg");
+  background-image: url("/pulic/unsplash.jpg");
   background-size: cover;
 }
 

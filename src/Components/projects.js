@@ -14,7 +14,7 @@ class Projects extends Component {
 
                 <div className='projects-grid'>
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '20em', background: 'url(/logreg2.png) center / cover'}}> </CardTitle>
+                <CardTitle style={{color: '#fff', height: '20em', background: 'url(/public/logreg2.png) center / cover'}}> </CardTitle>
                 <CardText>
                     Logistic Regression classification applied to crime data.
                 </CardText>
@@ -34,7 +34,7 @@ class Projects extends Component {
             return(
                 <div className='projects-grid'>
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '20em', background: 'url(/comingsoon.png) center / cover'}}> </CardTitle>
+                <CardTitle style={{color: '#fff', height: '20em', background: 'url(/public/comingsoon.png) center / cover'}}> </CardTitle>
                 <CardText>
                     Coming Soon
                 </CardText>
