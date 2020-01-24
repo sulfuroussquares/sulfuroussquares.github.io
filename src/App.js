@@ -5,15 +5,16 @@ import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
 import {Layout, Header, Navigation, Drawer, Content} from 'react-mdl';
 import Main from './Components/main';
-import { Link } from 'react-router-dom';
-import background from './background.jpg';
+import { HashRouter, Route, Link } from 'react-router-dom';
+
+
 
 class App extends Component {
   render() {
     return (
       // {/* Always shows Linkheader, even in smaller screens. */}
       // <div style={{height: '300px', position: 'relative'}}>
-      
+      <HashRouter basename ='/'>
       <div className ="background">
       {/* <div className="demo-big-content"> */}
       <Layout fixedHeader>
@@ -38,6 +39,7 @@ class App extends Component {
         </Content>
       </Layout>
       </div>
+      </HashRouter>
         );
       }
     }
