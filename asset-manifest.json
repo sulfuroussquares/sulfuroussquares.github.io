@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.defa040c.chunk.css",
-    "main.js": "/static/js/main.13c53c33.chunk.js",
-    "main.js.map": "/static/js/main.13c53c33.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a32229c1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a32229c1.js.map",
-    "static/css/2.a6bc1c31.chunk.css": "/static/css/2.a6bc1c31.chunk.css",
-    "static/js/2.3c53a333.chunk.js": "/static/js/2.3c53a333.chunk.js",
-    "static/js/2.3c53a333.chunk.js.map": "/static/js/2.3c53a333.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.142da6c261db2fef2440bb04dfd6604b.js": "/precache-manifest.142da6c261db2fef2440bb04dfd6604b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.a6bc1c31.chunk.css.map": "/static/css/2.a6bc1c31.chunk.css.map",
-    "static/css/main.defa040c.chunk.css.map": "/static/css/main.defa040c.chunk.css.map",
-    "static/js/2.3c53a333.chunk.js.LICENSE": "/static/js/2.3c53a333.chunk.js.LICENSE",
-    "static/media/background.jpg": "/static/media/background.3969ffae.jpg"
+    "main.css": "/sulfuroussquares.github.io/static/css/main.defa040c.chunk.css",
+    "main.js": "/sulfuroussquares.github.io/static/js/main.9d7309fa.chunk.js",
+    "main.js.map": "/sulfuroussquares.github.io/static/js/main.9d7309fa.chunk.js.map",
+    "runtime-main.js": "/sulfuroussquares.github.io/static/js/runtime-main.65bb16b9.js",
+    "runtime-main.js.map": "/sulfuroussquares.github.io/static/js/runtime-main.65bb16b9.js.map",
+    "static/css/2.a6bc1c31.chunk.css": "/sulfuroussquares.github.io/static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.3c53a333.chunk.js": "/sulfuroussquares.github.io/static/js/2.3c53a333.chunk.js",
+    "static/js/2.3c53a333.chunk.js.map": "/sulfuroussquares.github.io/static/js/2.3c53a333.chunk.js.map",
+    "index.html": "/sulfuroussquares.github.io/index.html",
+    "precache-manifest.4c9f717a86b8086ff2f996c024487e9d.js": "/sulfuroussquares.github.io/precache-manifest.4c9f717a86b8086ff2f996c024487e9d.js",
+    "service-worker.js": "/sulfuroussquares.github.io/service-worker.js",
+    "static/css/2.a6bc1c31.chunk.css.map": "/sulfuroussquares.github.io/static/css/2.a6bc1c31.chunk.css.map",
+    "static/css/main.defa040c.chunk.css.map": "/sulfuroussquares.github.io/static/css/main.defa040c.chunk.css.map",
+    "static/js/2.3c53a333.chunk.js.LICENSE": "/sulfuroussquares.github.io/static/js/2.3c53a333.chunk.js.LICENSE",
+    "static/media/background.jpg": "/sulfuroussquares.github.io/static/media/background.3969ffae.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a32229c1.js",
+    "static/js/runtime-main.65bb16b9.js",
     "static/css/2.a6bc1c31.chunk.css",
     "static/js/2.3c53a333.chunk.js",
     "static/css/main.defa040c.chunk.css",
-    "static/js/main.13c53c33.chunk.js"
+    "static/js/main.9d7309fa.chunk.js"
   ]
 }
